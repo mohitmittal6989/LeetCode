@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohitmittal6989/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/mohitmittal6989/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/mohitmittal6989/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mohitmittal6989/LeetCode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/mohitmittal6989/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitmittal6989/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mohitmittal6989/LeetCode/tree/master/0136-single-number) |
@@ -52,9 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohitmittal6989/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitmittal6989/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mohitmittal6989/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/mohitmittal6989/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
