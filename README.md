@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohitmittal6989/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mohitmittal6989/LeetCode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/mohitmittal6989/LeetCode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohitmittal6989/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitmittal6989/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitmittal6989/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohitmittal6989/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/mohitmittal6989/LeetCode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohitmittal6989/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
