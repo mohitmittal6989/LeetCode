@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohitmittal6989/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mohitmittal6989/LeetCode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/mohitmittal6989/LeetCode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitmittal6989/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mohitmittal6989/LeetCode/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
