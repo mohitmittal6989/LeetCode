@@ -111,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mohitmittal6989/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mohitmittal6989/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
