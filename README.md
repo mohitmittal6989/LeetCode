@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mohitmittal6989/LeetCode/tree/master/0050-powx-n) |
 | [1903-largest-odd-number-in-string](https://github.com/mohitmittal6989/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/mohitmittal6989/LeetCode/tree/master/0796-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mohitmittal6989/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
