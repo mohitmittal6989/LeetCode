@@ -1,22 +1,45 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        int m1[256] = {0}, m2[256] = {0}; 
+        // int m1[256] = {0}, m2[256] = {0}; 
           
-          // Get the length of the strings
-          int n = s.size(); 
+        //   // Get the length of the strings
+        //   int n = s.size(); 
           
-          // Traverse each character of the strings
-          for (int i = 0; i < n; ++i) {
-              // If previous positions of current characters differ, return false
-              if (m1[s[i]] != m2[t[i]]) return false;
+        //   // Traverse each character of the strings
+        //   for (int i = 0; i < n; ++i) {
+        //       // If previous positions of current characters differ, return false
+        //       if (m1[s[i]] != m2[t[i]]) return false;
               
-              // Update the position with current index + 1
-              m1[s[i]] = i + 1;
-              m2[t[i]] = i + 1;
-          }
+        //       // Update the position with current index + 1
+        //       m1[s[i]] = i + 1;
+        //       m2[t[i]] = i + 1;
+        //   }
           
-          // If no mismatch is found, return true
-          return true;
+        //   // If no mismatch is found, return true
+        //   return true;
+
+
+
+        int n = s.size();
+        int a = t.size();
+
+        if(n!=a) return false;
+
+        map<char, char> m;
+        set<char> se;
+
+
+        for(int i=0; i<n; i++){
+            if(m.find(s[i])!=m.end()){
+                if(m[s[i]] != t[i]) return false;
+            }else{
+                if(se.find(t[i]) != se.end()) return false;
+                m[s[i]] = t[i];
+                se.insert(t[i]);
+            }
+        }
+
+        return true;
     }
 };
