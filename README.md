@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/mohitmittal6989/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mohitmittal6989/LeetCode/tree/master/0031-next-permutation) |
+| [0148-sort-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitmittal6989/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mohitmittal6989/LeetCode/tree/master/0283-move-zeroes) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitmittal6989/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mohitmittal6989/LeetCode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/mohitmittal6989/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mohitmittal6989/LeetCode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mohitmittal6989/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mohitmittal6989/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/mohitmittal6989/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/mohitmittal6989/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
