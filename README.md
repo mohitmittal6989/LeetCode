@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mohitmittal6989/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mohitmittal6989/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/mohitmittal6989/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mohitmittal6989/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitmittal6989/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/mohitmittal6989/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitmittal6989/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mohitmittal6989/LeetCode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
