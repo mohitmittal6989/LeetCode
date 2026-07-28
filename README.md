@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohitmittal6989/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitmittal6989/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/mohitmittal6989/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mohitmittal6989/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohitmittal6989/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohitmittal6989/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/mohitmittal6989/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mohitmittal6989/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mohitmittal6989/LeetCode/tree/master/0204-count-primes) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/mohitmittal6989/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
