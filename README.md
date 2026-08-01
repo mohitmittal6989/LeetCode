@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/mohitmittal6989/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/mohitmittal6989/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitmittal6989/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/mohitmittal6989/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohitmittal6989/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitmittal6989/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohitmittal6989/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mohitmittal6989/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitmittal6989/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohitmittal6989/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/mohitmittal6989/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mohitmittal6989/LeetCode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 | [1903-largest-odd-number-in-string](https://github.com/mohitmittal6989/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/mohitmittal6989/LeetCode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitmittal6989/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohitmittal6989/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/mohitmittal6989/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/mohitmittal6989/LeetCode/tree/master/1922-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
