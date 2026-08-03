@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mohitmittal6989/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitmittal6989/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohitmittal6989/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1406-stone-game-iii](https://github.com/mohitmittal6989/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmittal6989/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/mohitmittal6989/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitmittal6989/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitmittal6989/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mohitmittal6989/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/mohitmittal6989/LeetCode/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohitmittal6989/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mohitmittal6989/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/mohitmittal6989/LeetCode/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/mohitmittal6989/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/mohitmittal6989/LeetCode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitmittal6989/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -308,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mohitmittal6989/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/mohitmittal6989/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
