@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmittal6989/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/mohitmittal6989/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/mohitmittal6989/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mohitmittal6989/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mohitmittal6989/LeetCode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitmittal6989/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitmittal6989/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mohitmittal6989/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mohitmittal6989/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mohitmittal6989/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mohitmittal6989/LeetCode/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mohitmittal6989/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmittal6989/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/mohitmittal6989/LeetCode/tree/master/1872-stone-game-viii) |
 ## Matrix
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mohitmittal6989/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mohitmittal6989/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mohitmittal6989/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mohitmittal6989/LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/mohitmittal6989/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/mohitmittal6989/LeetCode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/mohitmittal6989/LeetCode/tree/master/1927-sum-game) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/mohitmittal6989/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/mohitmittal6989/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/mohitmittal6989/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mohitmittal6989/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/mohitmittal6989/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mohitmittal6989/LeetCode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
@@ -411,12 +416,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mohitmittal6989/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mohitmittal6989/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mohitmittal6989/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/mohitmittal6989/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/mohitmittal6989/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mohitmittal6989/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
