@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/mohitmittal6989/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mohitmittal6989/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/mohitmittal6989/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/mohitmittal6989/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/mohitmittal6989/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/mohitmittal6989/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/mohitmittal6989/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/mohitmittal6989/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mohitmittal6989/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/mohitmittal6989/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitmittal6989/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohitmittal6989/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mohitmittal6989/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/mohitmittal6989/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mohitmittal6989/LeetCode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/mohitmittal6989/LeetCode/tree/master/1386-cinema-seat-allocation) |
