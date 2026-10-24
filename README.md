@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/mohitmittal6989/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/mohitmittal6989/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohitmittal6989/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/mohitmittal6989/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mohitmittal6989/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitmittal6989/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/mohitmittal6989/LeetCode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/mohitmittal6989/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mohitmittal6989/LeetCode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/mohitmittal6989/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitmittal6989/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohitmittal6989/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
