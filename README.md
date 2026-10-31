@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitmittal6989/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitmittal6989/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mohitmittal6989/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/mohitmittal6989/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/mohitmittal6989/LeetCode/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mohitmittal6989/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitmittal6989/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/mohitmittal6989/LeetCode/tree/master/1872-stone-game-viii) |
 | [3524-find-x-value-of-array-i](https://github.com/mohitmittal6989/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/mohitmittal6989/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohitmittal6989/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mohitmittal6989/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/mohitmittal6989/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/mohitmittal6989/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/mohitmittal6989/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohitmittal6989/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
