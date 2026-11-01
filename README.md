@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/mohitmittal6989/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/mohitmittal6989/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mohitmittal6989/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitmittal6989/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/mohitmittal6989/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/mohitmittal6989/LeetCode/tree/master/0493-reverse-pairs) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mohitmittal6989/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/mohitmittal6989/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mohitmittal6989/LeetCode/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohitmittal6989/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/mohitmittal6989/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mohitmittal6989/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/mohitmittal6989/LeetCode/tree/master/0877-stone-game) |
