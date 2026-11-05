@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/mohitmittal6989/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohitmittal6989/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitmittal6989/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/mohitmittal6989/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/mohitmittal6989/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mohitmittal6989/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohitmittal6989/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/mohitmittal6989/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitmittal6989/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohitmittal6989/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mohitmittal6989/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mohitmittal6989/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mohitmittal6989/LeetCode/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitmittal6989/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mohitmittal6989/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohitmittal6989/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitmittal6989/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/mohitmittal6989/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitmittal6989/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohitmittal6989/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mohitmittal6989/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/mohitmittal6989/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitmittal6989/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Indexed Tree
